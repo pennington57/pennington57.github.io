@@ -1,14 +1,14 @@
 [
     {
         "name": "Mint Julep",
-        "Ingredients": "Bourbon, Simple Syrup, Mint",
+        "ingredients": "Bourbon, Simple Syrup, Mint",
         "glass": "copper-mug",
         "spirit": "whisky"
     },
 
     {
-        "name": "Winston Churchill's Hairy Butthole",
-        "Ingredients": "Empress Gin, St. Germain's, Triple Sec, Lemon Juice, Club Soda",
+        "name": "W.C.H.B",
+        "ingredients": "Empress Gin, St. Germain's, Triple Sec, Lemon Juice, Club Soda",
         "glass": "high-ball",
         "spirit": "gin"
     }

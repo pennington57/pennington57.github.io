@@ -1,20 +1,25 @@
 import React from "react";
-import "./Cocktail.css"
+import "./Cocktail.css";
 
 const Cocktail = (props) => {
-    {props.drinks.map((drink) => {
+  //
+  return (
+    <div className="drink-section">
+      {props.drinks.map((drink) => {
         return (
             <div class={"drink-card " + drink.spirit}>
                 <div class="image">
-                    <img src={"../../public/" + drink.glass + ".png"}></img>
+                    <img src={"/" + drink.glass + ".png"}></img>
                 </div>
                 <div class="drink-info">
-                    <h3 class="title">{drink.name}</h3>
+                    <p class="title">{drink.name}</p>
                     <p class="ingredients">{drink.ingredients}</p>
                 </div>
             </div>
         );
-    })}
+      })}
+    </div>
+  );
 };
 
 export default Cocktail;

@@ -1,3 +1,8 @@
+.drink-section {
+    padding-top: 15px;
+    width: 100%;
+}
+
 .full-menu {
     width: 100%;
 }
@@ -7,24 +12,39 @@
 }
 
 .drink-card {
-    display: block;
+    display: flex;
     margin-left: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     border: 3px solid;
     border-radius: 25px;
-    width: 600px;
-    height: 120px;
-    padding-right: 20px;
+    width: 93%;
+}
+
+.drink-info {
+    margin: auto;
+    margin-left: 0;
+}
+
+.image {
+    display: contents;
+    margin: auto;
 }
 
 .image img {
-    float:left;
-    padding: 20px;
-    width:80px;
+    /* float:left; */
+    padding: 9px;
+    width: 15%;
+    height: 15vw;
 }
 
 .title {
-    margin-bottom: -10px;
+    margin-bottom: -18px;
+    line-height: 1;
+    font-weight: bold;
+}
+
+.ingredients {
+    font-size: 15px;
 }
 
 .whisky {
