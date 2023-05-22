@@ -352,5 +352,149 @@
         "ingredients": "Tequila, Lemon Juice, Creme de Mure, Simple Syrup, Blackberries, Mint",
         "glass": "high-ball",
         "spirit": "tequila"
+    },
+    {
+        "name": "Mojito",
+        "ingredients": "White Rum, Lime Juice, Sugar, Mint Leaves, Club Soda",
+        "glass": "high-ball",
+        "spirit": "rum"
+    },
+    {
+        "name": "Dark and Storym",
+        "ingredients": "Dark Rum, Lime Juice, Ginger Beer",
+        "glass": "copper-mug",
+        "spirit": "rum"
+    },
+    {
+        "name": "Daiquiri",
+        "ingredients": "White Rum, Lime Juice, Simple Syrup",
+        "glass": "coupe",
+        "spirit": "rum"
+    },
+    {
+        "name": "Mai Tai",
+        "ingredients": "White Rum, Dark Rum, Orange Curacao, Lime Juice, Orgeat Syrup",
+        "glass": "rocks",
+        "spirit": "rum"
+    },
+    {
+        "name": "Rum and Coke",
+        "ingredients": "White Rum, Coke, Lime Juice",
+        "glass": "high-ball",
+        "spirit": "rum"
+    },
+    {
+        "name": "Rum Runner",
+        "ingredients": "Light Rum, Dark Rum, Pineapple Juice, Orange Juice, Blackberry Liqueur, Banana Liqueur, Grenadine, High Proof Rum",
+        "glass": "high-ball",
+        "spirit": "rum"
+    },
+    {
+        "name": "Hurricane",
+        "ingredients": "Light Rum, Dark Rum, Lime Juice, Orange Juice, Passion Fruit Puree, Simple Syrup, Grenadine",
+        "glass": "hurricane",
+        "spirit": "rum"
+    },
+    {
+        "name": "Zombie",
+        "ingredients": "White Rum, Dark Rum, Golden Rum, Apricot Brandy, Lime Juice, Pineapple Juice, High Proof Rum (On Fire)",
+        "glass": "high-ball",
+        "spirit": "rum"
+    },
+    {
+        "name": "Planters Punch",
+        "ingredients": "Dark Rum, Orange Juice, Pineapple Juice, Grenadine, Simple Syrup, Lemon Juice, Angostura Bitters",
+        "glass": "hurricane",
+        "spirit": "rum"
+    },
+    {
+        "name": "El Presidente",
+        "ingredients": "White Rum, Dry Vermouth, Orange Curacao, Grenadine",
+        "glass": "martini",
+        "spirit": "rum"
+    },
+    {
+        "name": "Sidecar",
+        "ingredients": "Cognac, Lemon Juice, Triple Sec, Orange Wedge",
+        "glass": "martini",
+        "spirit": "brandy"
+    },
+    {
+        "name": "Brandy Alexander",
+        "ingredients": "Cognac, Creme de Cacao, Fresh Cream, Nutmeg",
+        "glass": "coupe",
+        "spirit": "brandy"
+    },
+    {
+        "name": "Vieux Carre",
+        "ingredients": "Cognac, Whisky, Sweet Vermouth, Benedictine, Peychaud's Bitters, Angostura Bitters, Cherry",
+        "glass": "rocks",
+        "spirit": "brandy"
+    },
+    {
+        "name": "Brandy Daisy",
+        "ingredients": "Brandy, Yellow Chartreuse, Lemon Juice, Club Soda",
+        "glass": "high-ball",
+        "spirit": "brandy"
+    },
+    {
+        "name": "Brandy Crusta",
+        "ingredients": "Brandy, Orange Curacao, Maraschino Liqueur, Lemon Juice, Simple Syrup, Angostura Bitters, Orange Twist",
+        "glass": "coupe",
+        "spirit": "brandy"
+    },
+    {
+        "name": "Metropolitan",
+        "ingredients": "Brandy, Sweet Vermouth, Simple Syrup, Angostura Bitters",
+        "glass": "martini",
+        "spirit": "brandy"
+    },
+    {
+        "name": "Brandy Cobbler",
+        "ingredients": "Brandy, Simple Syrup, Club Soda, Cherry on Top",
+        "glass": "rocks",
+        "spirit": "brandy"
+    },
+    {
+        "name": "Brandy Fix",
+        "ingredients": "Cognac, Pineapple Juice, Lemon Juice, Simple Syrup, Yellow Chartreuse, Lemon Twist",
+        "glass": "rocks",
+        "spirit": "brandy"
+    },
+    {
+        "name": "French Connection",
+        "ingredients": "Cognac, Amaretto",
+        "glass": "rocks",
+        "spirit": "brandy"
+    },
+    {
+        "name": "Sazerac",
+        "ingredients": "Cognac, Absinthe, Sugar Cube, Peychaud's Bitters, Lemon Twist",
+        "glass": "rocks",
+        "spirit": "brandy"
+    },
+    {
+        "name": "Champs-Elysees",
+        "ingredients": "Cognac, Green Chartreuse, Lemon Juice, Simple Syrup, Angostura Bitters",
+        "glass": "coupe",
+        "spirit": "brandy"
+    },
+    {
+        "name": "Between the Sheets",
+        "ingredients": "Cognac, Light Rum, Triple Sec, Lemon  Juice, Flamed Orange Peel",
+        "glass": "coupe",
+        "spirit": "brandy"
+    },
+    {
+        "name": "Harvard",
+        "ingredients": "Cognac, Sweet Vermouth, Simple Syrup, Angostura Bitters, Club Soda, Lemon Twist",
+        "glass": "coupe",
+        "spirit": "brandy"
+    },
+    {
+        "name": "Summit",
+        "ingredients": "Cognac, Ginger Slice, Lemon-Lime Soda",
+        "glass": "rocks",
+        "spirit": "brandy"
     }
 ]
