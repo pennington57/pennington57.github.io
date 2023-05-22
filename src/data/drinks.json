@@ -160,5 +160,197 @@
         "ingredients": "Bourbon, Cointreau, Angostura Bitters, Peychauds Bitters, Champagne",
         "glass": "flute",
         "spirit": "whisky"
+    },
+    {
+        "name": "Scotch and Soda",
+        "ingredients": "Scotch, Club Soda",
+        "glass": "high-ball",
+        "spirit": "scotch"
+    },
+    {
+        "name": "Rob Roy",
+        "ingredients": "Scotch, Sweet Vermouth, Angostura Bitters, Luxardo Cherry",
+        "glass": "coupe",
+        "spirit": "scotch"
+    },
+    {
+        "name": "Rusty Nail",
+        "ingredients": "Scotch, Drambuie, Lemon Twist",
+        "glass": "rocks",
+        "spirit": "scotch"
+    },
+    {
+        "name": "Blood and Sand",
+        "ingredients": "Scotch, Blood Orange Juice, Cherry Heering, Sweet Vermouth, Flamed Orange Zest",
+        "glass": "martini",
+        "spirit": "scotch"
+    },
+    {
+        "name": "Godfather",
+        "ingredients": "Scotch, Amaretto",
+        "glass": "rocks",
+        "spirit": "scotch"
+    },
+    {
+        "name": "Penicillin",
+        "ingredients": "Blended Scotch, Single Malt Scotch, Lemon Juice, Honey Ginger Syrup, Lemon Twist",
+        "glass": "rocks",
+        "spirit": "scotch"
+    },
+    {
+        "name": "Bobby Burns",
+        "ingredients": "Blended Scotch, Sweet Vermouth, Benedictine, Lemon Twist",
+        "glass": "coupe",
+        "spirit": "scotch"
+    },
+    {
+        "name": "Mamie Taylor",
+        "ingredients": "Blended Scotch, Lime Juice, Ginger Beer",
+        "glass": "high-ball",
+        "spirit": "scotch"
+    },
+    {
+        "name": "Vesper",
+        "ingredients": "Vodka, Gin, Lillet Blonde",
+        "glass": "martini",
+        "spirit": "vodka"
+    },
+    {
+        "name": "Cosmopolitan",
+        "ingredients": "Vodka, Cranberry Juice, Cointreau, Lime Juice",
+        "glass": "martini",
+        "spirit": "vodka"
+    },
+    {
+        "name": "Bloody Mary",
+        "ingredients": "Vodka, Tomato Juice, Lemon Juice, Worcestershire Sauce, Tobasco, Salt + Pepper",
+        "glass": "high-ball",
+        "spirit": "vodka"
+    },
+    {
+        "name": "Espresso Martini",
+        "ingredients": "Vodka, Mr. Black's Coffee Liqueur, Espresso, Simple Syrup",
+        "glass": "martini",
+        "spirit": "vodka"
+    },
+    {
+        "name": "Moscow Mule",
+        "ingredients": "Vodka, Ginger Beer, Lime Juice",
+        "glass": "copper-mug",
+        "spirit": "vodka"
+    },
+    {
+        "name": "Lemon Drop",
+        "ingredients": "Vodka, Triple Sec, Lemon Juice, Simple Syrup",
+        "glass": "coupe",
+        "spirit": "vodka"
+    },
+    {
+        "name": "Vodka Tonic",
+        "ingredients": "Vodka, Tonic Water, Lime Wedge",
+        "glass": "high-ball",
+        "spirit": "vodka"
+    },
+    {
+        "name": "White Russian",
+        "ingredients": "Vodka, Coffee Liqueur, Cream",
+        "glass": "rocks",
+        "spirit": "vodka"
+    },
+    {
+        "name": "Appletini",
+        "ingredients": "Vodka, Green Apple Schnapps, Cointreau, Apple Slice",
+        "glass": "martini",
+        "spirit": "vodka"
+    },
+    {
+        "name": "Screwdriver",
+        "ingredients": "Vodka, Orange Juice",
+        "glass": "highball",
+        "spirit": "vodka"
+    },
+    {
+        "name": "Blue Hawaiian",
+        "ingredients": "Vodka, Light Rum, Sweet and Sour Mix, Blue Curacao, Pineapple Juice",
+        "glass": "hurricane",
+        "spirit": "vodka"
+    },
+    {
+        "name": "Sex on the Beach",
+        "ingredients": "Vodka, Cranberry Juice, Orange Juice, Peach Schnapps",
+        "glass": "hurricane",
+        "spirit": "vodka"
+    },
+    {
+        "name": "French Martini",
+        "ingredients": "Vodka, Pineapple Juice, Chambord, Raspberry",
+        "glass": "martini",
+        "spirit": "vodka"
+    },
+    {
+        "name": "Lemon Vodka Collins",
+        "ingredients": "Vodka, Lemon Juice, Simple Syrup, Club Soda",
+        "glass": "high-ball",
+        "spirit": "vodka"
+    },
+    {
+        "name": "Kamikaze",
+        "ingredients": "Vodka, Triple Sec, Lime Juice, Lime Wedge",
+        "glass": "martini",
+        "spirit": "vodka"
+    },
+    {
+        "name": "Godmother",
+        "ingredients": "Vodka, Amaretto",
+        "glass": "rocks",
+        "spirit": "vodka"
+    },
+    {
+        "name": "Margarita",
+        "ingredients": "Tequila, Cointreau, Lime Juice",
+        "glass": "margarita",
+        "spirit": "tequila"
+    },
+    {
+        "name": "Tequila Sunrise",
+        "ingredients": "Tequila, Grenadine, Orange Juice, Orange Slice, Cherry",
+        "glass": "high-ball",
+        "spirit": "tequila"
+    },
+    {
+        "name": "Ranch Water",
+        "ingredients": "Tequila, Lime Juice, Topo Chico, Lime Wheel",
+        "glass": "high-ball",
+        "spirit": "tequila"
+    },
+    {
+        "name": "Margarita Martini",
+        "ingredients": "Reposado Tequila, Cointreau, Lime Juice, Orange Juice, Olives",
+        "glass": "martini",
+        "spirit": "tequila"
+    },
+    {
+        "name": "Tequila Old Fashioned",
+        "ingredients": "Tequila, Sugar Cube, Angostura Bitters, Orange Bitters",
+        "glass": "rocks",
+        "spirit": "tequila"
+    },
+    {
+        "name": "Tequila Sour",
+        "ingredients": "Tequila, Lime Juice, Simple Syrup, Egg White (Optional), Lime Wedge",
+        "glass": "rocks",
+        "spirit": "tequila"
+    },
+    {
+        "name": "Tequila Manhattan",
+        "ingredients": "Tequila, Sweet Vermouth, Chocolate Bitters, Luxardo Cherries",
+        "glass": "martini",
+        "spirit": "tequila"
+    },
+    {
+        "name": "Tequila Bramble",
+        "ingredients": "Tequila, Lemon Juice, Creme de Mure, Simple Syrup, Blackberries, Mint",
+        "glass": "high-ball",
+        "spirit": "tequila"
     }
 ]
