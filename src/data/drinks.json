@@ -1,15 +1,164 @@
 [
     {
-        "name": "Mint Julep",
-        "ingredients": "Bourbon, Simple Syrup, Mint",
-        "glass": "copper-mug",
-        "spirit": "whisky"
+        "name": "Gin and Tonic",
+        "ingredients": "Gin, Tonic, Lime Wedge",
+        "glass": "high-ball",
+        "spirit": "gin"
     },
-
     {
         "name": "W.C.H.B",
         "ingredients": "Empress Gin, St. Germain's, Triple Sec, Lemon Juice, Club Soda",
         "glass": "high-ball",
         "spirit": "gin"
+    },
+    {
+        "name": "Martini",
+        "ingredients": "Gin, Dry Vermouth, 3 Olives",
+        "glass": "martini",
+        "spirit": "gin"
+    },
+    {
+        "name": "Negroni",
+        "ingredients": "Gin, Campari, Sweet Vermouth",
+        "glass": "rocks",
+        "spirit": "gin"
+    },
+    {
+        "name": "Tom Collins",
+        "ingredients": "Old Tom Gin, Simple Syrup, Lemon Juice, Soda Water",
+        "glass": "high-ball",
+        "spirit": "gin"
+    },
+    {
+        "name": "Gimlet",
+        "ingredients": "Gin, Lime Juice, Lime Wheel",
+        "glass": "martini",
+        "spirit": "gin"
+    },
+    {
+        "name": "Corpse Reviver #2",
+        "ingredients": "London Dry Gin, Absinthe Rinse, Lillet Blanc, Orange Liqueur, Lemon Juice",
+        "glass": "coupe",
+        "spirit": "gin"
+    },
+    {
+        "name": "Bee's Knees",
+        "ingredients": "Gin, Lemon Juice, Honey Syrup",
+        "glass": "coupe",
+        "spirit": "gin"
+    },
+    {
+        "name": "French 75",
+        "ingredients": "Gin, Lemon Juice, Champagne, Simple Syrup",
+        "glass": "flute",
+        "spirit": "gin"
+    },
+    {
+        "name": "Aviation",
+        "ingredients": "Gin, Lemon Juice, Maraschino Liqueur, Creme de Violette",
+        "glass": "coupe",
+        "spirit": "gin"
+    },
+    {
+        "name": "Last Word",
+        "ingredients": "Gin, Green Chartreuse, Lime Juice, Maraschino Liqueur",
+        "glass": "coupe",
+        "spirit": "gin"
+    },
+    {
+        "name": "Southside Fizz",
+        "ingredients": "Gin, Simple Syrup, Lemon Juice, Mint Leaves, Club Soda",
+        "glass": "high-ball",
+        "spirit": "gin"
+    },
+    {
+        "name": "Bramble",
+        "ingredients": "Gin, Lemon Juice, Simple Syrup, Creme de Mure, Lemon Wheel, Blackberries",
+        "glass": "rocks",
+        "spirit": "gin"
+    },
+    {
+        "name": "White Lady",
+        "ingredients": "London Dry Gin, Orange Liqueur, Lemon Juice, Egg White, Lemon Peel",
+        "glass": "coupe",
+        "spirit": "gin"
+    },
+    {
+        "name": "Hanky Panky",
+        "ingredients": "Gin, Sweet Vermouth, Angostura Bitters",
+        "glass": "coupe",
+        "spirit": "gin"
+    },
+    {
+        "name": "Bloodhound",
+        "ingredients": "Gin, Dry Vermouth, Sweet Vermouth, Muddled Strawberries",
+        "glass": "blender",
+        "spirit": "gin"
+    },
+    {
+        "name": "Angel Face",
+        "ingredients": "Gin, Apricot Brandy, Calvados, Apple Slice",
+        "glass": "coupe",
+        "spirit": "gin"
+    },
+    {
+        "name": "Mint Julep",
+        "ingredients": "Bourbon, Simple Syrup, Mint",
+        "glass": "copper-mug",
+        "spirit": "whisky"
+    },
+    {
+        "name": "Highball",
+        "ingredients": "Whisky, Ginger Ale",
+        "glass": "high-ball",
+        "spirit": "whisky"
+    },
+    {
+        "name": "Whisky Sour",
+        "ingredients": "Bourbon, Egg White (Optional), Lemon Juice, Gum / Simple Syrup",
+        "glass": "rocks",
+        "spirit": "whisky"
+    },
+    {
+        "name": "Old Fashioned",
+        "ingredients": "Whisky, Sugar Cube, Angostura Bitters",
+        "glass": "rocks",
+        "spirit": "whisky"
+    },
+    {
+        "name": "Manhattan",
+        "ingredients": "Rye Whisky, Sweet Vermouth, Angostura Bitters, 2 Maraschino Cherries",
+        "glass": "martini",
+        "spirit": "whisky"
+    },
+    {
+        "name": "Boulevardier",
+        "ingredients": "Whiskey, Campari, Sweet Vermouth, orange peel",
+        "glass": "rocks",
+        "spirit": "whisky"
+    },
+    {
+        "name": "Hot Toddy",
+        "ingredients": "Whisky, Honey, Lemon Juice, Hot Water",
+        "glass": "mug",
+        "spirit": "whisky"
+    },
+    {
+        "name": "John Collins",
+        "ingredients": "Bourbon, Simple Syrup, Lemon Juice, Soda Water, Lemon Wheel, Cherry",
+        "glass": "high-ball",
+        "spirit": "whisky"
+    },
+    {
+        "name": "Belmont Jewel",
+        "ingredients": "Bourbon, Lemonade, Pomegranate Juice, Lemon Twist",
+        "glass": "rocks",
+        "spirit": "whisky"
+    },
+    {
+        "name": "Seelbach",
+        "ingredients": "Bourbon, Cointreau, Angostura Bitters, Peychauds Bitters, Champagne",
+        "glass": "flute",
+        "spirit": "whisky"
     }
 ]
