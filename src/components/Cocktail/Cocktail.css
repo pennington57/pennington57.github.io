@@ -47,6 +47,10 @@
     font-size: 15px;
 }
 
+.out {
+    display: none;
+}
+
 .whisky {
     background-color: #FDEB7B;
 }

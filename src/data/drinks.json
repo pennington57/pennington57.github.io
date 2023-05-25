@@ -21,7 +21,8 @@
         "name": "Negroni",
         "ingredients": "Gin, Campari, Sweet Vermouth",
         "glass": "rocks",
-        "spirit": "gin"
+        "spirit": "gin",
+        "availability": "out"
     },
     {
         "name": "Tom Collins",
@@ -39,7 +40,8 @@
         "name": "Corpse Reviver #2",
         "ingredients": "London Dry Gin, Absinthe Rinse, Lillet Blanc, Orange Liqueur, Lemon Juice",
         "glass": "coupe",
-        "spirit": "gin"
+        "spirit": "gin",
+        "availability": "out"
     },
     {
         "name": "Bee's Knees",
@@ -51,19 +53,22 @@
         "name": "French 75",
         "ingredients": "Gin, Lemon Juice, Champagne, Simple Syrup",
         "glass": "flute",
-        "spirit": "gin"
+        "spirit": "gin",
+        "availability": "out"
     },
     {
         "name": "Aviation",
         "ingredients": "Gin, Lemon Juice, Maraschino Liqueur, Creme de Violette",
         "glass": "coupe",
-        "spirit": "gin"
+        "spirit": "gin",
+        "availability": "out"
     },
     {
         "name": "Last Word",
         "ingredients": "Gin, Green Chartreuse, Lime Juice, Maraschino Liqueur",
         "glass": "coupe",
-        "spirit": "gin"
+        "spirit": "gin",
+        "availability": "out"
     },
     {
         "name": "Southside Fizz",
@@ -75,7 +80,8 @@
         "name": "Bramble",
         "ingredients": "Gin, Lemon Juice, Simple Syrup, Creme de Mure, Lemon Wheel, Blackberries",
         "glass": "rocks",
-        "spirit": "gin"
+        "spirit": "gin",
+        "availability": "out"
     },
     {
         "name": "White Lady",
@@ -99,7 +105,8 @@
         "name": "Angel Face",
         "ingredients": "Gin, Apricot Brandy, Calvados, Apple Slice",
         "glass": "coupe",
-        "spirit": "gin"
+        "spirit": "gin",
+        "availability": "out"
     },
     {
         "name": "Mint Julep",
@@ -127,7 +134,7 @@
     },
     {
         "name": "Manhattan",
-        "ingredients": "Rye Whisky, Sweet Vermouth, Angostura Bitters, 2 Maraschino Cherries",
+        "ingredients": "Rye Whisky, Sweet Vermouth, Angostura Bitters, 2 Luxardo Cherries",
         "glass": "martini",
         "spirit": "whisky"
     },
@@ -135,7 +142,8 @@
         "name": "Boulevardier",
         "ingredients": "Whiskey, Campari, Sweet Vermouth, orange peel",
         "glass": "rocks",
-        "spirit": "whisky"
+        "spirit": "whisky",
+        "availability": "out"
     },
     {
         "name": "Hot Toddy",
@@ -159,61 +167,71 @@
         "name": "Seelbach",
         "ingredients": "Bourbon, Cointreau, Angostura Bitters, Peychauds Bitters, Champagne",
         "glass": "flute",
-        "spirit": "whisky"
+        "spirit": "whisky",
+        "availability": "out"
     },
     {
         "name": "Scotch and Soda",
         "ingredients": "Scotch, Club Soda",
         "glass": "high-ball",
-        "spirit": "scotch"
+        "spirit": "scotch",
+        "availability": "out"
     },
     {
         "name": "Rob Roy",
         "ingredients": "Scotch, Sweet Vermouth, Angostura Bitters, Luxardo Cherry",
         "glass": "coupe",
-        "spirit": "scotch"
+        "spirit": "scotch",
+        "availability": "out"
     },
     {
         "name": "Rusty Nail",
         "ingredients": "Scotch, Drambuie, Lemon Twist",
         "glass": "rocks",
-        "spirit": "scotch"
+        "spirit": "scotch",
+        "availability": "out"
     },
     {
         "name": "Blood and Sand",
         "ingredients": "Scotch, Blood Orange Juice, Cherry Heering, Sweet Vermouth, Flamed Orange Zest",
         "glass": "martini",
-        "spirit": "scotch"
+        "spirit": "scotch",
+        "availability": "out"
     },
     {
         "name": "Godfather",
         "ingredients": "Scotch, Amaretto",
         "glass": "rocks",
-        "spirit": "scotch"
+        "spirit": "scotch",
+        "availability": "out"
     },
     {
         "name": "Penicillin",
         "ingredients": "Blended Scotch, Single Malt Scotch, Lemon Juice, Honey Ginger Syrup, Lemon Twist",
         "glass": "rocks",
-        "spirit": "scotch"
+        "spirit": "scotch",
+        "availability": "out"
     },
     {
         "name": "Bobby Burns",
         "ingredients": "Blended Scotch, Sweet Vermouth, Benedictine, Lemon Twist",
         "glass": "coupe",
-        "spirit": "scotch"
+        "spirit": "scotch",
+        "availability": "out"
     },
     {
         "name": "Mamie Taylor",
         "ingredients": "Blended Scotch, Lime Juice, Ginger Beer",
         "glass": "high-ball",
-        "spirit": "scotch"
+        "spirit": "scotch",
+        "availability": "out"
     },
     {
         "name": "Vesper",
         "ingredients": "Vodka, Gin, Lillet Blonde",
         "glass": "martini",
-        "spirit": "vodka"
+        "spirit": "vodka",
+        "availability": "out"
     },
     {
         "name": "Cosmopolitan",
@@ -225,7 +243,8 @@
         "name": "Bloody Mary",
         "ingredients": "Vodka, Tomato Juice, Lemon Juice, Worcestershire Sauce, Tobasco, Salt + Pepper",
         "glass": "high-ball",
-        "spirit": "vodka"
+        "spirit": "vodka",
+        "availability": "out"
     },
     {
         "name": "Espresso Martini",
@@ -255,13 +274,15 @@
         "name": "White Russian",
         "ingredients": "Vodka, Coffee Liqueur, Cream",
         "glass": "rocks",
-        "spirit": "vodka"
+        "spirit": "vodka",
+        "availability": "out"
     },
     {
         "name": "Appletini",
         "ingredients": "Vodka, Green Apple Schnapps, Cointreau, Apple Slice",
         "glass": "martini",
-        "spirit": "vodka"
+        "spirit": "vodka",
+        "availability": "out"
     },
     {
         "name": "Screwdriver",
@@ -273,19 +294,22 @@
         "name": "Blue Hawaiian",
         "ingredients": "Vodka, Light Rum, Sweet and Sour Mix, Blue Curacao, Pineapple Juice",
         "glass": "hurricane",
-        "spirit": "vodka"
+        "spirit": "vodka",
+        "availability": "out"
     },
     {
         "name": "Sex on the Beach",
         "ingredients": "Vodka, Cranberry Juice, Orange Juice, Peach Schnapps",
         "glass": "hurricane",
-        "spirit": "vodka"
+        "spirit": "vodka",
+        "availability": "out"
     },
     {
         "name": "French Martini",
         "ingredients": "Vodka, Pineapple Juice, Chambord, Raspberry",
         "glass": "martini",
-        "spirit": "vodka"
+        "spirit": "vodka",
+        "availability": "out"
     },
     {
         "name": "Lemon Vodka Collins",
@@ -315,7 +339,8 @@
         "name": "Tequila Sunrise",
         "ingredients": "Tequila, Grenadine, Orange Juice, Orange Slice, Cherry",
         "glass": "high-ball",
-        "spirit": "tequila"
+        "spirit": "tequila",
+        "availability": "out"
     },
     {
         "name": "Ranch Water",
@@ -345,22 +370,25 @@
         "name": "Tequila Manhattan",
         "ingredients": "Tequila, Sweet Vermouth, Chocolate Bitters, Luxardo Cherries",
         "glass": "martini",
-        "spirit": "tequila"
+        "spirit": "tequila",
+        "availability": "out"
     },
     {
         "name": "Tequila Bramble",
         "ingredients": "Tequila, Lemon Juice, Creme de Mure, Simple Syrup, Blackberries, Mint",
         "glass": "high-ball",
-        "spirit": "tequila"
+        "spirit": "tequila",
+        "availability": "out"
     },
     {
         "name": "Mojito",
         "ingredients": "White Rum, Lime Juice, Sugar, Mint Leaves, Club Soda",
         "glass": "high-ball",
-        "spirit": "rum"
+        "spirit": "rum",
+        "availability": "out"
     },
     {
-        "name": "Dark and Storym",
+        "name": "Dark and Stormy",
         "ingredients": "Dark Rum, Lime Juice, Ginger Beer",
         "glass": "copper-mug",
         "spirit": "rum"
@@ -369,132 +397,154 @@
         "name": "Daiquiri",
         "ingredients": "White Rum, Lime Juice, Simple Syrup",
         "glass": "coupe",
-        "spirit": "rum"
+        "spirit": "rum",
+        "availability": "out"
     },
     {
         "name": "Mai Tai",
         "ingredients": "White Rum, Dark Rum, Orange Curacao, Lime Juice, Orgeat Syrup",
         "glass": "rocks",
-        "spirit": "rum"
+        "spirit": "rum",
+        "availability": "out"
     },
     {
         "name": "Rum and Coke",
         "ingredients": "White Rum, Coke, Lime Juice",
         "glass": "high-ball",
-        "spirit": "rum"
+        "spirit": "rum",
+        "availability": "out"
     },
     {
         "name": "Rum Runner",
         "ingredients": "Light Rum, Dark Rum, Pineapple Juice, Orange Juice, Blackberry Liqueur, Banana Liqueur, Grenadine, High Proof Rum",
         "glass": "high-ball",
-        "spirit": "rum"
+        "spirit": "rum",
+        "availability": "out"
     },
     {
         "name": "Hurricane",
         "ingredients": "Light Rum, Dark Rum, Lime Juice, Orange Juice, Passion Fruit Puree, Simple Syrup, Grenadine",
         "glass": "hurricane",
-        "spirit": "rum"
+        "spirit": "rum",
+        "availability": "out"
     },
     {
         "name": "Zombie",
         "ingredients": "White Rum, Dark Rum, Golden Rum, Apricot Brandy, Lime Juice, Pineapple Juice, High Proof Rum (On Fire)",
         "glass": "high-ball",
-        "spirit": "rum"
+        "spirit": "rum",
+        "availability": "out"
     },
     {
         "name": "Planters Punch",
         "ingredients": "Dark Rum, Orange Juice, Pineapple Juice, Grenadine, Simple Syrup, Lemon Juice, Angostura Bitters",
         "glass": "hurricane",
-        "spirit": "rum"
+        "spirit": "rum",
+        "availability": "out"
     },
     {
         "name": "El Presidente",
         "ingredients": "White Rum, Dry Vermouth, Orange Curacao, Grenadine",
         "glass": "martini",
-        "spirit": "rum"
+        "spirit": "rum",
+        "availability": "out"
     },
     {
         "name": "Sidecar",
         "ingredients": "Cognac, Lemon Juice, Triple Sec, Orange Wedge",
         "glass": "martini",
-        "spirit": "brandy"
+        "spirit": "brandy",
+        "availability": "out"
     },
     {
         "name": "Brandy Alexander",
         "ingredients": "Cognac, Creme de Cacao, Fresh Cream, Nutmeg",
         "glass": "coupe",
-        "spirit": "brandy"
+        "spirit": "brandy",
+        "availability": "out"
     },
     {
         "name": "Vieux Carre",
         "ingredients": "Cognac, Whisky, Sweet Vermouth, Benedictine, Peychaud's Bitters, Angostura Bitters, Cherry",
         "glass": "rocks",
-        "spirit": "brandy"
+        "spirit": "brandy",
+        "availability": "out"
     },
     {
         "name": "Brandy Daisy",
         "ingredients": "Brandy, Yellow Chartreuse, Lemon Juice, Club Soda",
         "glass": "high-ball",
-        "spirit": "brandy"
+        "spirit": "brandy",
+        "availability": "out"
     },
     {
         "name": "Brandy Crusta",
         "ingredients": "Brandy, Orange Curacao, Maraschino Liqueur, Lemon Juice, Simple Syrup, Angostura Bitters, Orange Twist",
         "glass": "coupe",
-        "spirit": "brandy"
+        "spirit": "brandy",
+        "availability": "out"
     },
     {
         "name": "Metropolitan",
         "ingredients": "Brandy, Sweet Vermouth, Simple Syrup, Angostura Bitters",
         "glass": "martini",
-        "spirit": "brandy"
+        "spirit": "brandy",
+        "availability": "out"
     },
     {
         "name": "Brandy Cobbler",
         "ingredients": "Brandy, Simple Syrup, Club Soda, Cherry on Top",
         "glass": "rocks",
-        "spirit": "brandy"
+        "spirit": "brandy",
+        "availability": "out"
     },
     {
         "name": "Brandy Fix",
         "ingredients": "Cognac, Pineapple Juice, Lemon Juice, Simple Syrup, Yellow Chartreuse, Lemon Twist",
         "glass": "rocks",
-        "spirit": "brandy"
+        "spirit": "brandy",
+        "availability": "out"
     },
     {
         "name": "French Connection",
         "ingredients": "Cognac, Amaretto",
         "glass": "rocks",
-        "spirit": "brandy"
+        "spirit": "brandy",
+        "availability": "out"
     },
     {
         "name": "Sazerac",
         "ingredients": "Cognac, Absinthe, Sugar Cube, Peychaud's Bitters, Lemon Twist",
         "glass": "rocks",
-        "spirit": "brandy"
+        "spirit": "brandy",
+        "availability": "out"
     },
     {
         "name": "Champs-Elysees",
         "ingredients": "Cognac, Green Chartreuse, Lemon Juice, Simple Syrup, Angostura Bitters",
         "glass": "coupe",
-        "spirit": "brandy"
+        "spirit": "brandy",
+        "availability": "out"
     },
     {
         "name": "Between the Sheets",
         "ingredients": "Cognac, Light Rum, Triple Sec, Lemon  Juice, Flamed Orange Peel",
         "glass": "coupe",
-        "spirit": "brandy"
+        "spirit": "brandy",
+        "availability": "out"
     },
     {
         "name": "Harvard",
         "ingredients": "Cognac, Sweet Vermouth, Simple Syrup, Angostura Bitters, Club Soda, Lemon Twist",
         "glass": "coupe",
-        "spirit": "brandy"
+        "spirit": "brandy",
+        "availability": "out"
     },
     {
         "name": "Summit",
         "ingredients": "Cognac, Ginger Slice, Lemon-Lime Soda",
         "glass": "rocks",
-        "spirit": "brandy"
+        "spirit": "brandy",
+        "availability": "out"
     }
 ]

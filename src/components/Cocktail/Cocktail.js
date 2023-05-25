@@ -7,7 +7,7 @@ const Cocktail = (props) => {
     <div className="drink-section">
       {props.drinks.map((drink) => {
         return (
-            <div class={"drink-card " + drink.spirit}>
+            <div class={"drink-card " + drink.spirit + " " + drink.availability}>
                 <div class="image">
                     <img src={"/" + drink.glass + ".png"}></img>
                 </div>
