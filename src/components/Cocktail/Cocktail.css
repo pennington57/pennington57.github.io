@@ -11,13 +11,35 @@
     width: 200px;
 }
 
-.drink-card {
+.drink-card, .instruction-card {
     display: flex;
     margin-left: 10px;
-    margin-bottom: 10px;
     border: 3px solid;
+    width: 95%;
+    box-sizing: border-box;
+}
+
+.drink-card {
     border-radius: 25px;
-    width: 93%;
+    z-index: 10;
+}
+
+.instruction-card {
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    margin-bottom: 10px;
+    margin-top: -22px;
+    border-top: none;
+    padding-left: 10px;
+    padding-top: 10px;
+    position: relative;
+    z-index: -1;
+}
+
+.instructions {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
 }
 
 .drink-info {
@@ -43,7 +65,7 @@
     font-weight: bold;
 }
 
-.ingredients {
+.ingredients, .instructions {
     font-size: 15px;
 }
 
@@ -55,20 +77,44 @@
     background-color: #FDEB7B;
 }
 
+.instruction-card.whisky {
+    background-color: #F9F3CC;
+}
+
 .gin {
     background-color: #B8E2F2;
+}
+
+.instruction-card.gin {
+    background-color: #e9f6fb;
 }
 
 .scotch {
     background-color: #FDC773;
 }
 
+.vodka {
+    background-color: #F7F7F7;
+}
+
+.instruction-card.vodka {
+    background-color: #FFFFFF;
+}
+
 .tequila {
     background-color: #FFE6C7;
 }
 
+.instruction-card.tequila {
+    background-color: #FFF7ED;
+}
+
 .rum {
     background-color: #CEB49D;
+}
+
+.instruction-card.rum {
+    background-color: #E3D8CF;
 }
 
 .brandy {
