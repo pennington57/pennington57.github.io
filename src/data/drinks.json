@@ -17,7 +17,8 @@
         "name": "Martini",
         "ingredients": "Gin, Dry Vermouth, 3 Olives",
         "glass": "martini",
-        "spirit": "gin"
+        "spirit": "gin",
+        "ratio": "2.5 oz : 0.5 oz ('Dickens')"
     },
     {
         "name": "Negroni",
@@ -28,15 +29,17 @@
     },
     {
         "name": "Tom Collins",
-        "ingredients": "Old Tom Gin, Simple Syrup, Lemon Juice, Soda Water",
+        "ingredients": "Old Tom Gin, Lemon Juice, Simple Syrup, Soda Water",
         "glass": "high-ball",
-        "spirit": "gin"
+        "spirit": "gin",
+        "ratio": "2 oz : 0.75 oz : 0.5 oz : Fill"
     },
     {
         "name": "Gimlet",
         "ingredients": "Gin, Lime Juice, Lime Wheel",
         "glass": "martini",
-        "spirit": "gin"
+        "spirit": "gin",
+        "ratio": "2 oz : 0.5 oz"
     },
     {
         "name": "Corpse Reviver #2",
@@ -49,7 +52,8 @@
         "name": "Bee's Knees",
         "ingredients": "Gin, Lemon Juice, Honey Syrup",
         "glass": "coupe",
-        "spirit": "gin"
+        "spirit": "gin",
+        "ratio": "2 oz : 0.75 oz : 0.5 oz"
     },
     {
         "name": "French 75",
@@ -76,31 +80,36 @@
         "name": "Southside Fizz",
         "ingredients": "Gin, Simple Syrup, Lemon Juice, Mint Leaves, Club Soda",
         "glass": "high-ball",
-        "spirit": "gin"
+        "spirit": "gin",
+        "ratio": "2 oz : 0.5 oz : 0.75 oz"
     },
     {
         "name": "Bramble",
         "ingredients": "Gin, Lemon Juice, Simple Syrup, Creme de Mure, Lemon Wheel, Blackberries",
         "glass": "rocks",
-        "spirit": "gin"
+        "spirit": "gin",
+        "ratio": "2 oz : 1 oz: 2 tsp : 0.5 oz"
     },
     {
         "name": "White Lady",
         "ingredients": "London Dry Gin, Orange Liqueur, Lemon Juice, Egg White, Lemon Peel",
         "glass": "coupe",
-        "spirit": "gin"
+        "spirit": "gin",
+        "ratio": "1 oz : 1 oz : 1 oz"
     },
     {
         "name": "Hanky Panky",
         "ingredients": "Gin, Sweet Vermouth, Angostura Bitters",
         "glass": "coupe",
-        "spirit": "gin"
+        "spirit": "gin",
+        "ratio": "1.5 oz : 1.5 oz : 2 dashes"
     },
     {
         "name": "Bloodhound",
         "ingredients": "Gin, Dry Vermouth, Sweet Vermouth, Muddled Strawberries",
         "glass": "blender",
-        "spirit": "gin"
+        "spirit": "gin",
+        "availability": "out"
     },
     {
         "name": "Angel Face",
@@ -113,31 +122,37 @@
         "name": "Mint Julep",
         "ingredients": "Bourbon, Simple Syrup, Mint",
         "glass": "copper-mug",
-        "spirit": "whisky"
+        "spirit": "whisky",
+        "ratio": "2 oz : 1 tsp"
     },
     {
         "name": "Highball",
         "ingredients": "Whisky, Ginger Ale",
         "glass": "high-ball",
-        "spirit": "whisky"
+        "spirit": "whisky",
+        "ratio": "2 oz : Fill"
     },
     {
         "name": "Whisky Sour",
         "ingredients": "Bourbon, Egg White (Optional), Lemon Juice, Gum / Simple Syrup",
         "glass": "rocks",
-        "spirit": "whisky"
+        "spirit": "whisky",
+        "ratio": "1.5 oz : 1 oz : 0.5 oz"
     },
     {
         "name": "Old Fashioned",
         "ingredients": "Whisky, Sugar Cube, Angostura Bitters",
         "glass": "rocks",
-        "spirit": "whisky"
+        "spirit": "whisky",
+        "ratio": "1.5 oz : 1 : 2 dashes"
     },
     {
         "name": "Manhattan",
         "ingredients": "Rye Whisky, Sweet Vermouth, Angostura Bitters, 2 Luxardo Cherries",
         "glass": "martini",
-        "spirit": "whisky"
+        "spirit": "whisky",
+        "ratio": "2 oz : 0.75 oz : 1 dash"
+        
     },
     {
         "name": "Boulevardier",
@@ -150,7 +165,8 @@
         "name": "Hot Toddy",
         "ingredients": "Whisky, Honey, Lemon Juice, Hot Water",
         "glass": "mug",
-        "spirit": "whisky"
+        "spirit": "whisky",
+        "ratio": "1.5 oz : 3 tsp : 3 tsp : Fill"
     },
     {
         "name": "John Collins",
