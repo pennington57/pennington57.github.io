@@ -18,7 +18,7 @@ const Cocktail = (props) => {
                 </div>
             </div>
             <div class={"instruction-card " + drink.spirit}>
-              <p class="instructions">1 oz : 0.75 oz : 2 dashes</p>
+              <p class="instructions">{drink.ratio}</p>
             </div>
           </div>
         );

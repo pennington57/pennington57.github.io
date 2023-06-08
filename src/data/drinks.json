@@ -3,13 +3,15 @@
         "name": "Gin and Tonic",
         "ingredients": "Gin, Tonic, Lime Wedge",
         "glass": "high-ball",
-        "spirit": "gin"
+        "spirit": "gin",
+        "ratio": "1.25oz : Fill" 
     },
     {
         "name": "W.C.H.B",
         "ingredients": "Empress Gin, St. Germain's, Triple Sec, Lemon Juice, Club Soda",
         "glass": "high-ball",
-        "spirit": "gin"
+        "spirit": "gin",
+        "ratio": "1.25 oz : 0.5 oz : 0.75 oz : 0.75 oz : Fill"
     },
     {
         "name": "Martini",
@@ -80,8 +82,7 @@
         "name": "Bramble",
         "ingredients": "Gin, Lemon Juice, Simple Syrup, Creme de Mure, Lemon Wheel, Blackberries",
         "glass": "rocks",
-        "spirit": "gin",
-        "availability": "out"
+        "spirit": "gin"
     },
     {
         "name": "White Lady",
@@ -377,8 +378,7 @@
         "name": "Tequila Bramble",
         "ingredients": "Tequila, Lemon Juice, Creme de Mure, Simple Syrup, Blackberries, Mint",
         "glass": "high-ball",
-        "spirit": "tequila",
-        "availability": "out"
+        "spirit": "tequila"
     },
     {
         "name": "Mojito",
