@@ -178,7 +178,8 @@
         "name": "Belmont Jewel",
         "ingredients": "Bourbon, Lemonade, Pomegranate Juice, Lemon Twist",
         "glass": "rocks",
-        "spirit": "whisky"
+        "spirit": "whisky",
+        "availability": "out"
     },
     {
         "name": "Seelbach",
@@ -191,15 +192,13 @@
         "name": "Scotch and Soda",
         "ingredients": "Scotch, Club Soda",
         "glass": "high-ball",
-        "spirit": "scotch",
-        "availability": "out"
+        "spirit": "scotch"
     },
     {
         "name": "Rob Roy",
         "ingredients": "Scotch, Sweet Vermouth, Angostura Bitters, Luxardo Cherry",
         "glass": "coupe",
-        "spirit": "scotch",
-        "availability": "out"
+        "spirit": "scotch"
     },
     {
         "name": "Rusty Nail",
@@ -219,8 +218,7 @@
         "name": "Godfather",
         "ingredients": "Scotch, Amaretto",
         "glass": "rocks",
-        "spirit": "scotch",
-        "availability": "out"
+        "spirit": "scotch"
     },
     {
         "name": "Penicillin",
@@ -240,8 +238,7 @@
         "name": "Mamie Taylor",
         "ingredients": "Blended Scotch, Lime Juice, Ginger Beer",
         "glass": "high-ball",
-        "spirit": "scotch",
-        "availability": "out"
+        "spirit": "scotch"
     },
     {
         "name": "Vesper",
@@ -254,7 +251,8 @@
         "name": "Cosmopolitan",
         "ingredients": "Vodka, Cranberry Juice, Cointreau, Lime Juice",
         "glass": "martini",
-        "spirit": "vodka"
+        "spirit": "vodka",
+        "availability": "out"
     },
     {
         "name": "Bloody Mary",
@@ -305,7 +303,8 @@
         "name": "Screwdriver",
         "ingredients": "Vodka, Orange Juice",
         "glass": "high-ball",
-        "spirit": "vodka"
+        "spirit": "vodka",
+        "availability": "out"
     },
     {
         "name": "Blue Hawaiian",
@@ -363,13 +362,15 @@
         "name": "Ranch Water",
         "ingredients": "Tequila, Lime Juice, Topo Chico, Lime Wheel",
         "glass": "high-ball",
-        "spirit": "tequila"
+        "spirit": "tequila",
+        "availability": "out"
     },
     {
         "name": "Margarita Martini",
         "ingredients": "Reposado Tequila, Cointreau, Lime Juice, Orange Juice, Olives",
         "glass": "martini",
-        "spirit": "tequila"
+        "spirit": "tequila",
+        "availability": "out"
     },
     {
         "name": "Tequila Old Fashioned",
@@ -504,15 +505,13 @@
         "name": "Metropolitan",
         "ingredients": "Brandy, Sweet Vermouth, Simple Syrup, Angostura Bitters",
         "glass": "martini",
-        "spirit": "brandy",
-        "availability": "out"
+        "spirit": "brandy"
     },
     {
         "name": "Brandy Cobbler",
         "ingredients": "Brandy, Simple Syrup, Club Soda, Cherry on Top",
         "glass": "rocks",
-        "spirit": "brandy",
-        "availability": "out"
+        "spirit": "brandy"
     },
     {
         "name": "Brandy Fix",
@@ -525,15 +524,13 @@
         "name": "French Connection",
         "ingredients": "Cognac, Amaretto",
         "glass": "rocks",
-        "spirit": "brandy",
-        "availability": "out"
+        "spirit": "brandy"
     },
     {
         "name": "Sazerac",
         "ingredients": "Cognac, Absinthe, Sugar Cube, Peychaud's Bitters, Lemon Twist",
         "glass": "rocks",
-        "spirit": "brandy",
-        "availability": "out"
+        "spirit": "brandy"
     },
     {
         "name": "Champs-Elysees",
